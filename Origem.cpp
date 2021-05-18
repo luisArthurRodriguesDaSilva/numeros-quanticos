@@ -8,5 +8,5 @@ int main() {
 		cin >> a;
 		atm atomo(a);
 	}
-	
+
 }
